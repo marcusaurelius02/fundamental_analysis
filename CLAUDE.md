@@ -17,6 +17,7 @@
 
 - **`investment_journal.md`** - Decision log (Date | Stock | Decision | Rationale | GTT IDs | Follow-ups)
 - **`portfolio_companies/[SYMBOL].md`** - Complete analysis history per stock (append new dated sections at top)
+- **`PORTFOLIO_SNAPSHOT.md`** - Real-time portfolio data (LOCAL ONLY - in .gitignore, not pushed to GitHub)
 
 ---
 
@@ -36,6 +37,11 @@
 - **Red flag:** Premium >30% vs peers without justification
 - Stop-loss triggered
 
+### PARTIAL SELL (Book Profits)
+- **Price-Fundamentals disconnect:** Stock up 30%+ but revenue/margins declining
+- **Large gains in short time:** >40% gain in <2 months warrants profit booking
+- **Strategy:** Sell 50%, hold 50% with stop-loss (de-risk while keeping upside)
+
 ---
 
 ## Workflow (Every Analysis)
@@ -47,6 +53,7 @@
    - Place GTT orders (BUY: limit 0.4-0.5% above trigger | SELL: limit 0.5% below trigger)
    - Update `investment_journal.md` (Date | Stock | Decision | Rationale in 1 para | GTT IDs | Follow-ups)
    - APPEND new dated section to `portfolio_companies/[SYMBOL].md` (compare vs previous analysis)
+   - Update `PORTFOLIO_SNAPSHOT.md` if requested (full portfolio refresh)
 
 ---
 
@@ -81,6 +88,25 @@
 
 ---
 
+## Portfolio Snapshot Generation
+
+**When to generate:** User requests "portfolio snapshot" or "portfolio file"
+
+**Process:**
+1. `mcp__Kite__get_holdings` - Get all positions
+2. `mcp__Kite__get_margins` - Get cash/margin data
+3. Create `PORTFOLIO_SNAPSHOT.md` with:
+   - Overall portfolio summary (value, P&L, returns)
+   - Asset allocation by sector
+   - Top gainers/losers
+   - Detailed holdings table
+   - Active GTT orders
+   - Sector-wise performance
+
+**Important:** File stays LOCAL only (in .gitignore)
+
+---
+
 ## Communication Style
 
 - Crisp, data-driven (no superlatives like "amazing", "incredible")
@@ -98,7 +124,33 @@
 - Check earnings dates before setting follow-ups (Q4: April-May, Q1: July-Aug)
 - Include Trigger IDs in journal
 - Always verify day change % before buy recommendations
+- **Check if revenue is growing or declining** - Don't assume growth, verify with actual data
+- **Update existing analysis files** - Append new dated sections at top of portfolio_companies/[SYMBOL].md files
+- **Consider partial profit booking** - When stock up 40%+ but fundamentals deteriorating
 
 ---
 
-**Last Updated:** 2026-02-05
+## Git & Privacy Management
+
+**Repository:** https://github.com/marcusaurelius02/fundamental_analysis
+**Account:** Personal (javed02@gmail.com) - NOT work account
+
+### Files to NEVER push (in .gitignore):
+- `PORTFOLIO_SNAPSHOT.md` - Real-time holdings with quantities/prices
+- `.env` files - API keys/credentials
+- `*.csv` - Raw data files
+
+### Safe to push:
+- Analysis methodology and templates
+- Stock analysis files (portfolio_companies/*.md)
+- Investment journal (decisions/rationale)
+- CLAUDE.md configuration
+
+### Privacy principle:
+- **Share methodology, not real-time positions**
+- Analysis files show thinking process (good for learning)
+- Portfolio snapshot shows actual money (keep private)
+
+---
+
+**Last Updated:** 2026-02-06
