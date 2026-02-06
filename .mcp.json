@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Kite": {
+      "url": "https://mcp.kite.trade/mcp",
+      "type": "http"
+    }
+  }
+}

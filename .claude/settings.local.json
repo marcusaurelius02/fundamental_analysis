@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude-code mcp:*)",
+      "mcp__Kite__login",
+      "mcp__Kite__get_profile",
+      "mcp__Kite__get_holdings",
+      "mcp__Kite__get_trades",
+      "mcp__Kite__get_historical_data",
+      "mcp__Kite__search_instruments",
+      "mcp__Kite__get_quotes",
+      "WebSearch",
+      "mcp__Kite__place_gtt_order"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "Kite"
+  ]
+}
