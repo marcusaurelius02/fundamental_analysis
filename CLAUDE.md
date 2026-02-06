@@ -57,6 +57,73 @@
 
 ---
 
+## New Company Analysis Workflow
+
+**Trigger:** User types just a company name or ticker (e.g., "SUNPHARMA", "RELIANCE", "Tata Motors")
+
+**Automatic Process:**
+1. **Search Instrument:**
+   - Use `mcp__Kite__search_instruments` to find exact trading symbol
+   - Get current price using `mcp__Kite__get_quotes`
+   - Get OHLC data using `mcp__Kite__get_ohlc`
+
+2. **Gather Fundamental Data:**
+   - Use `WebSearch` for:
+     - "SYMBOL screener.in" → Financial metrics (ROCE, ROE, margins, debt/equity, FCF)
+     - "SYMBOL annual report FY24" → Qualitative insights, management commentary
+     - "SYMBOL moat competitive advantage" → Business analysis
+     - "SYMBOL latest results Q3 FY26" → Recent performance
+     - "SYMBOL peer comparison" → Relative valuation
+
+3. **Follow Template:**
+   - Use structure from `fundamental_analysis.md`
+   - Complete ALL 10 sections systematically
+   - Focus on FACTS (financials) vs INTERPRETATION (assessment) vs OPINION (judgment)
+
+4. **Create Analysis File:**
+   - Filename: `portfolio_companies/[SYMBOL]_Comprehensive_Analysis.md`
+   - Structure:
+     ```markdown
+     # [COMPANY NAME] - Comprehensive Analysis
+
+     **Analysis Date:** [Date]
+     **Current Market Price (CMP):** ₹[X]
+     **Exchange:** NSE/BSE
+     **Sector:** [X]
+
+     ---
+
+     [Follow all 10 sections from fundamental_analysis.md]
+     ```
+
+5. **Key Requirements:**
+   - Use tables for all data presentation
+   - Include 10-year historical data where available (minimum 5-year)
+   - Cite data vintage (FY24, Q3 FY26, TTM)
+   - Calculate intrinsic value range with margin of safety
+   - Provide specific price targets (Bear/Base/Bull)
+   - Include technical levels (support/resistance, RSI, MACD)
+   - End with clear RECOMMENDATION: BUY/HOLD/AVOID/SELL
+
+6. **Quality Checks:**
+   - ✅ All financial metrics filled (ROCE, ROE, margins, FCF)
+   - ✅ Moat analysis completed (6 types rated)
+   - ✅ Management quality assessed
+   - ✅ Valuation vs historical median
+   - ✅ Valuation vs peers (3+ comparisons)
+   - ✅ Risk matrix completed
+   - ✅ Quick reference card at end
+
+**Example Usage:**
+```
+User: "RELIANCE"
+→ Auto-triggers full analysis
+→ Creates portfolio_companies/RELIANCE_Comprehensive_Analysis.md
+→ Returns summary with recommendation
+```
+
+---
+
 ## GTT Orders - Active (2026-02-05)
 
 | Stock | Type | Trigger | Qty | Limit | Trigger ID |
@@ -153,4 +220,4 @@
 
 ---
 
-**Last Updated:** 2026-02-06
+**Last Updated:** 2026-02-06 (Added: New Company Analysis Workflow)
