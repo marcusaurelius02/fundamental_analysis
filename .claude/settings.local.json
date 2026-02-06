@@ -10,7 +10,9 @@
       "mcp__Kite__search_instruments",
       "mcp__Kite__get_quotes",
       "WebSearch",
-      "mcp__Kite__place_gtt_order"
+      "mcp__Kite__place_gtt_order",
+      "mcp__Kite__get_margins",
+      "Bash(git add:*)"
     ]
   },
   "enabledMcpjsonServers": [
