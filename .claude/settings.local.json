@@ -12,10 +12,20 @@
       "WebSearch",
       "mcp__Kite__place_gtt_order",
       "mcp__Kite__get_margins",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "mcp__Kite__get_order_history",
+      "mcp__Kite__get_ohlc",
+      "Bash(git pull:*)"
     ]
   },
   "enabledMcpjsonServers": [
     "Kite"
-  ]
+  ],
+  "statusLine": {
+    "type": "command",
+    "command": "python \"C:\\Users\\sinjav\\OneDrive - SAS\\GitHub Projects\\investment programs\\fundamental_analysis\\.claude\\scripts\\context-monitor.py\"",
+    "padding": 2
+  }
 }
