@@ -13,6 +13,38 @@
 
 ---
 
+## ⚠️ TRADING SAFETY RULES - CRITICAL
+
+**NEVER place any GTT, market orders, or any trading orders using Kite MCP without EXPLICIT USER APPROVAL.**
+
+### Order Placement Protocol:
+
+1. **Analysis & Recommendation Phase:**
+   - Perform full analysis
+   - Provide clear recommendation with reasoning
+   - Suggest specific GTT levels (trigger price, limit price, quantity)
+   - **STOP HERE - DO NOT EXECUTE**
+
+2. **User Approval Required:**
+   - Wait for user to explicitly say: "place the order", "execute", "go ahead", or similar confirmation
+   - User may modify parameters (price, quantity, timing)
+   - User may decline and choose to place manually
+
+3. **Execution Phase (ONLY after approval):**
+   - Place GTT/orders using Kite MCP tools
+   - Confirm execution with trigger IDs
+   - Update investment journal with GTT IDs
+
+**Why This Rule Exists:**
+- Real money at stake - mistakes are costly
+- User may want to review, sleep on it, or time the entry differently
+- Market conditions change rapidly - recommendations may become stale
+- User has final authority over their capital allocation
+
+**Exceptions:** NONE. Always require explicit approval for any order placement.
+
+---
+
 ## Key Files
 
 - **`investment_journal.md`** - Decision log (Date | Stock | Decision | Rationale | GTT IDs | Follow-ups)
@@ -49,7 +81,8 @@
 1. Read `investment_journal.md` for context
 2. Get holdings → quotes → news → fundamentals
 3. Provide recommendation with specific ₹ amount
-4. If executing:
+4. **⚠️ STOP and get user approval before placing any orders** (see Trading Safety Rules above)
+5. If user approves execution:
    - Place GTT orders (BUY: limit 0.4-0.5% above trigger | SELL: limit 0.5% below trigger)
    - Update `investment_journal.md` (Date | Stock | Decision | Rationale in 1 para | GTT IDs | Follow-ups)
    - APPEND new dated section to `portfolio_companies/[SYMBOL].md` (compare vs previous analysis)
@@ -124,20 +157,6 @@ User: "RELIANCE"
 
 ---
 
-## GTT Orders - Active (2026-02-05)
-
-| Stock | Type | Trigger | Qty | Limit | Trigger ID |
-|-------|------|---------|-----|-------|------------|
-| KPITTECH | SELL | ₹900 | 110 | ₹895 | 305672287 |
-| MANKIND | SELL | ₹1,950 | 100 | ₹1,945 | 305578263 |
-| INDIGO | SELL | ₹4,500 | 22 | ₹4,490 | 305631403 |
-| WABAG | BUY | ₹1,150 | 20 | ₹1,155 | 305665451 |
-| WABAG | SELL | ₹1,000 | 64 | ₹995 | 305665456 |
-
-**⚠️ After WABAG buy executes:** Update stop-loss to 84 shares
-
----
-
 ## Key Metrics (User's Benchmarks)
 
 **Pharma:** EBITDA >24% | P/E <35x (Sun/Cipla/Dr.Reddy's benchmark)
@@ -186,6 +205,7 @@ User: "RELIANCE"
 
 ## Common Mistakes to Avoid
 
+- **⚠️ CRITICAL: NEVER place orders without explicit user approval** - Always wait for user confirmation before executing any GTT/market orders
 - Don't place GTT without checking holdings first
 - Update stop-loss quantity after position changes
 - Check earnings dates before setting follow-ups (Q4: April-May, Q1: July-Aug)
@@ -220,4 +240,4 @@ User: "RELIANCE"
 
 ---
 
-**Last Updated:** 2026-02-06 (Added: New Company Analysis Workflow)
+**Last Updated:** 2026-02-09 (Added: Critical Trading Safety Rule - NEVER place orders without explicit user approval)
