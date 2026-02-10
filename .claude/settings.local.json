@@ -17,7 +17,24 @@
       "Bash(git push:*)",
       "mcp__Kite__get_order_history",
       "mcp__Kite__get_ohlc",
-      "Bash(git pull:*)"
+      "Bash(git pull:*)",
+      "mcp__Kite__get_positions",
+      "mcp__Kite__get_gtts",
+      "mcp__Kite__get_orders",
+      "mcp__Kite__get_order_trades",
+      "mcp__Kite__get_ltp",
+      "mcp__Kite__get_mf_holdings",
+      "mcp__Kite__modify_gtt_order",
+      "mcp__Kite__delete_gtt_order",
+      "mcp__Kite__modify_order",
+      "mcp__Kite__cancel_order",
+      "mcp__Kite__place_order",
+      "WebFetch",
+      "Edit(*)",
+      "Write(*)",
+      "Read(*)",
+      "Glob(*)",
+      "Grep(*)"
     ]
   },
   "enabledMcpjsonServers": [
