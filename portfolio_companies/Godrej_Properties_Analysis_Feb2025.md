@@ -1,6 +1,115 @@
 # Comprehensive Analysis: Godrej Properties Ltd (GODREJPROP)
 
-**Analysis Date:** February 9, 2025  
+---
+
+## UPDATE — February 10, 2026
+
+**CMP:** ₹1,818 | **Your Position:** 15 shares @ ₹1,501.67 avg | **Value:** ₹27,270 | **P&L: +₹4,750 (+21.4%)**
+
+> One year later — the original BUY thesis (set at ₹1,800) has held. Stock is essentially flat in price but business has compounded strongly underneath.
+
+---
+
+### What Changed Since Feb 2025 Analysis
+
+#### FY25 Full Year Results (Thesis VALIDATED)
+
+| Metric | FY24 | FY25 | YoY Growth | vs Original Expectation |
+|--------|------|------|-----------|------------------------|
+| Revenue | ₹3,035 cr | ₹4,923 cr | +62.2% | Beat (expected 18% CAGR) |
+| PAT | ₹726 cr | ₹1,400 cr | +93% YoY | Massive beat |
+| Presales (Bookings) | ₹22,527 cr | ₹29,444 cr | +31% | Beat ₹27,000 cr guidance |
+| Collections | ₹11,451 cr | ₹17,047 cr | +49% | Strong |
+| Operating Cash Flow | ₹4,823 cr | ₹7,484 cr | +55% | Turning cash-generative |
+| BD Additions (GDV) | — | ₹26,450 cr | — | Beat ₹20,000 cr guidance |
+
+**Key FY25 insight:** Operating cash flow of ₹7,484 cr — the "negative FCF" red flag from the original analysis is improving materially. Collections finally catching up to bookings.
+
+---
+
+#### Q3 FY26 Results (Most Recent — January 2026)
+
+| Metric | Q3 FY26 | Q3 FY25 | YoY |
+|--------|---------|---------|-----|
+| Bookings (Presales) | ₹8,421 cr | ₹5,430 cr | **+55%** ✅ |
+| Collections | ₹4,282 cr | ₹3,058 cr | +40% ✅ |
+| Total Income | ₹711 cr | ₹586 cr | +21% |
+| Revenue from Ops | ₹268 cr | ₹185 cr | +45% |
+| PAT | ₹195 cr | ₹163 cr | +20% |
+
+**9M FY26 Scorecard:**
+- Bookings: ₹24,008 cr (+25% YoY) → **74% of ₹32,500 cr FY26 guidance**
+- Collections: ₹12,018 cr (+19% YoY)
+- PAT (9M): ₹1,198 cr — already 86% of FY25 full-year PAT
+
+---
+
+#### FY26 Pipeline & Guidance (Strong Visibility)
+
+| Item | Status |
+|------|--------|
+| Booking guidance FY26 | ₹32,500 cr (74% done in 9M — on track to beat) |
+| BD guidance FY26 | ₹30,000 cr GDV — **already exceeded** (Nagpur 75-acre acquisition tipped it over) |
+| Launch guidance FY26 | ₹40,000 cr (H1 launches ₹18,600 cr done, H2 ₹22,000 cr planned) |
+| New cities | Nagpur (3rd acquisition), Bengaluru Sarjapur, others |
+| Analyst consensus | ₹2,548 (22 analysts, Buy) → +40% upside from CMP |
+
+---
+
+#### Valuation Update (Feb 2026)
+
+| Metric | Feb 2025 | Feb 2026 | Change |
+|--------|----------|----------|--------|
+| CMP | ₹1,800 | ₹1,818 | +1% |
+| P/E (TTM) | 18.9x | ~30x | Re-rated (earnings grew, P/E normalised) |
+| P/B | 2.6x | 2.58x | Stable |
+| EV/EBITDA | 14.3x | 23x | Re-rated (earnings grew) |
+| Analyst target | — | ₹2,548 | +40% upside |
+
+**Why stock is flat despite +93% PAT growth in FY25?**
+Price was ~₹2,020 in Dec 2025 (post-Q2 FY26) before pulling back to ₹1,818. Partial re-rating happened (P/E moved from 19x → 30x), then macro headwinds (market selloff, rate concerns) compressed it again.
+
+---
+
+#### Red Flags / New Concerns
+
+1. **Revenue from operations volatile:** Q3 FY26 revenue from ops only ₹268 cr despite ₹8,421 cr in bookings — real estate accounting lag means P&L doesn't reflect bookings momentum for 12-24 months. Market sometimes penalises this.
+2. **ROCE still negative** per some metrics (real estate accounting quirk — capital employed is massive while current-period EBIT is lumpy). Not a structural concern given presales strength.
+3. **PEG of 11x** cited by Antique Broking — expensive on this metric. Counter: real estate presales leading indicators are superior to reported EPS for this business.
+4. **Debt at SPV level** remains to be monitored — with aggressive land acquisitions at ₹30,000 cr GDV, funding mix matters.
+
+---
+
+### Updated Recommendation
+
+**HOLD / PARTIAL ADD on dips**
+
+| Scenario | Action |
+|----------|--------|
+| Holds ₹1,750-1,850 | **HOLD** — at fair value, let FY26 delivery play out |
+| Dips to ₹1,550-1,650 | **ADD 5-8 shares** (~₹9,000-13,000) — stronger MoS |
+| Rises to ₹2,200+ | **Partial sell** — consider booking 50% (7-8 shares) |
+| Breaks ₹1,250 (original stop-loss) | **EXIT** — thesis broken |
+
+**Position note:** At ₹27,270 (15 shares), this is a small position with +21.4% unrealised gain. Thesis validated. No stop-loss GTT currently — consider setting one at ₹1,400 (revised from original ₹1,250 given improved fundamentals).
+
+### Key Monitorables Going Forward
+
+1. **Q4 FY26 bookings** (April 2026): Target >₹8,000 cr to meet ₹32,500 cr FY26 guidance
+2. **FY26 full-year OCF**: Should exceed ₹8,000 cr (FY25 was ₹7,484 cr) — critical FCF inflection watch
+3. **Net debt**: Rising land acquisitions funded how? Debt/equity <0.5x is the threshold
+4. **ROCE trajectory**: Should hit 14-16% by FY27 as projects deliver
+5. **Collections/bookings ratio**: Target >55% collections within same year of booking
+
+---
+
+**Sources:** [Q3 FY26 Results — EquityBulls](https://www.equitybulls.com/category.php?id=366911) | [Q3 FY26 Bookings — Upstox](https://upstox.com/news/market-news/stocks/godrej-properties-q3-booking-value-soars-55-to-8-431-crore-collections-advance-40/article-187834/) | [FY25 Bookings Record — Business Standard](https://www.business-standard.com/companies/news/godrej-properties-records-bookings-worth-rs-10-163-cr-in-q4-fy25-up-7-yoy-125040800398_1.html) | [FY26 Land Acquisition — Whalesbook](https://www.whalesbook.com/news/English/real-estate/Godrej-Properties-Surpasses-FY26-Guidance-With-Major-Nagpur-Land-Acquisition/691fec6f9de501abf63c3a26)
+
+---
+
+## ORIGINAL ANALYSIS — February 9, 2025
+
+**Analysis Date:** February 9, 2025
 **Data Vintage:** FY24 Annual, Q3FY25 Results, Current Price as of Feb 9, 2025  
 **Current Price:** ₹1,800 (CORRECTED - Initial analysis used ₹2,870 in error)
 

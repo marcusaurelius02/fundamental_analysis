@@ -4,6 +4,64 @@
 
 ---
 
+### 2026-02-10 | GODREJPROP | HOLD + ACCUMULATE ON DIPS (GTT BUY ORDERS SET)
+
+**Position:** 15 shares @ ₹1,501.67 avg | Current: ₹1,818 | Gain: +₹4,746 (+21.1%)
+
+**Decision:** HOLD existing 15 shares. Accumulate on dips via two GTT BUY orders at ₹1,650 and ₹1,500. Do not chase above ₹1,850.
+
+**Rationale:** Full analysis updated (see `portfolio_companies/Godrej_Properties_Analysis_Feb2025.md`). Original Feb 2025 BUY thesis has validated strongly — FY25 PAT +93% to ₹1,400 cr, presales +31% to ₹29,444 cr (beat guidance), OCF ₹7,484 cr (FCF concern from original analysis improving materially). Q3 FY26 bookings ₹8,421 cr (+55% YoY, record quarter), 9M bookings ₹24,008 cr (74% of FY26 guidance with one quarter left — on track to beat). Business compounding well but stock near fair value at ₹1,818 (P/E ~30x FY26E). No urgency to buy at current levels; better risk-reward on dips. Position too small at ₹27k vs ₹40-50k mid-cap sizing guideline — GTTs will build it to ~₹55k if both fire. Analyst consensus target ₹2,548 (+40% upside) from 22 analysts.
+
+**Action Taken:**
+- ✅ HOLD all 15 shares (original position in profit, thesis intact)
+- ✅ GTT BUY #1: 10 shares @ trigger ₹1,650 → limit ₹1,658 (Trigger ID: **306254383**)
+- ✅ GTT BUY #2: 10 shares @ trigger ₹1,500 → limit ₹1,508 (Trigger ID: **306254397**)
+- 📊 If both GTTs fire: 35 total shares, blended avg ~₹1,560, total deployed ~₹54,600
+
+**Follow-Up Schedule:**
+- 📅 **April-May 2026**: Q4 FY26 results — target bookings >₹8,000 cr (to meet ₹32,500 cr FY26 guidance), OCF >₹8,000 cr full year
+- 📅 **Monitor**: If price dips to ₹1,650 or ₹1,500, GTTs fire automatically
+- 📅 **Quarterly**: Track collections/bookings ratio (target >55%), net debt levels post land acquisitions
+
+**Exit Criteria:**
+- ✅ Rises to ₹2,200+: Consider partial profit booking (sell 7-8 shares)
+- ✅ Rises to ₹2,500+ (analyst target): Sell 50%, hold rest with trailing stop
+- ❌ Bookings drop below ₹6,000 cr/qtr for 2 consecutive quarters: Thesis weakening, review
+- ❌ Net debt/equity crosses 0.5x: Land acquisition aggression becoming a risk
+- ✅ Breaks ₹1,250 (original stop-loss from Feb 2025 analysis): EXIT all
+
+**Key Thesis:** Godrej Properties is executing its presales growth story — bookings compounding at 25-55% YoY, OCF turning positive, pipeline visibility strong (₹30,000 cr+ BD additions in FY26). Near-term P&L will remain lumpy (real estate accounting lag), but leading indicators (bookings, collections) are strong. Accumulate on any market-driven dips; current price (₹1,818) is fair but not cheap.
+
+---
+
+### 2026-02-10 | HAVELLS | HOLD + STOP-LOSS SET
+
+**Position:** 42 shares @ ₹1,450.73 avg | Current: ₹1,375.70 | Loss: -₹3,170 (-4.9%)
+
+**Decision:** HOLD existing 42 shares. Do NOT add at current price. Stop-loss GTT placed to protect against further downside.
+
+**Rationale:** Full analysis conducted (see `portfolio_companies/HAVELLS_Comprehensive_Analysis.md`). Havells is a wide-moat business (India's deepest electrical distribution network — 260,000 retailers, 301,000 electricians) but is currently trading at ~58x P/E with only 3.85% PAT growth in 9M FY26 — a dangerous combination. The Lloyd AC segment (-6.5% revenue in Q3 FY26) is the key execution risk; it was acquired in 2017 and has dragged earnings for 7 years, only recently reaching profitability. Cable segment (32% of revenue, +32.8% Q3 FY26) is masking broader weakness — lighting down 4%, ECD growing only 4.3%. 9M FY26 full-year revenue trajectory implies near-flat FY26 vs FY25. Valuation offers no margin of safety at current levels. Position is already -4.9% underwater; averaging down at 58x P/E with slowing growth would increase risk without improving risk-reward. Stop-loss set at ₹1,280 (7% further downside from CMP) to protect capital.
+
+**Action Taken:**
+- ✅ HOLD all 42 shares
+- ✅ GTT stop-loss placed: SELL 42 shares @ trigger ₹1,280 → limit ₹1,272 (Trigger ID: **306227789**)
+- 📊 Monitoring: Q4 FY26 results (April-May), Lloyd AC demand recovery, copper prices
+
+**Follow-Up Schedule:**
+- 📅 **Feb-Mar 2026**: Watch if price holds ₹1,350 support. Below ₹1,300 = stop-loss fires
+- 📅 **April-May 2026**: Q4 FY26 results — key test. Need Lloyd revenue growth >10% and overall PAT growth >12% to justify holding
+- 📅 **Summer 2026 (Apr-Jun)**: Critical for Lloyd AC — good summer = potential recovery trigger
+
+**Exit Criteria:**
+- ✅ Stop-loss fires at ₹1,280 — exit all 42 shares (Trigger ID: 306227789)
+- ✅ Rises to ₹1,500-1,520 — exit at break-even/small profit, redeploy to better risk-reward
+- ❌ Q4 FY26 shows Lloyd revenue decline + PAT growth <8% — consider early exit before stop-loss
+- ✅ Rises to ₹1,600+ (bull case, Lloyd recovery) — SELL ALL, P/E would be ~67x on flat earnings
+
+**Key Thesis:** Havells is a quality business in a valuation trap. Wide moat (distribution + brand) is intact but Lloyd integration drag + commodity exposure + rich P/E (58x) = limited upside and meaningful downside risk at current levels. Hold for potential Lloyd recovery in FY27; stop-loss protects against further deterioration.
+
+---
+
 ### 2026-02-09 | HDFC AMC | HOLD + ACCUMULATE ON DIPS (BETTER THAN ICICI)
 
 **Position:** 58 shares @ ₹2,570.22 avg | Current: ₹2,750.00 | Gain: +6.48% (₹10,427)
