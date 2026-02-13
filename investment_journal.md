@@ -4,6 +4,89 @@
 
 ---
 
+### 2026-02-12 | HCLTECH | EXIT (STOP-LOSS TRIGGERED)
+
+**Position:** 24 shares @ ₹1,543.42 avg | Sold: ₹1,500.00 | Loss: -₹1,042 (-2.8%)
+
+**Decision:** EXIT — GTT two-leg stop-loss triggered automatically at market open.
+
+**Rationale:** HCL Tech dropped 4.55% on Feb 12 as part of a broad IT sector selloff triggered by Anthropic's Claude Cowork plugin release, which intensified fears of AI disrupting traditional IT services. Nifty IT index down 10% YTD. The two-leg GTT (ID: 302218664) had a lower trigger at ₹1,500 which fired at 9:23 AM. Stock fell to ₹1,480 intraday — stop-loss saved further downside. IT services face structural headwinds from AI replacing consulting, data analytics, and software development work traditionally outsourced to Indian IT companies. Exit was well-timed.
+
+**Action Taken:**
+- ✅ GTT stop-loss fired: 24 shares sold at ₹1,500 (Trigger ID: **302218664**, Order ID: 2021794559717056515)
+- 💰 Cash recovered: ₹36,000
+- 📊 Realized loss: -₹1,042
+
+**Post-Exit Notes:**
+- No position remaining in HCLTECH
+- IT sector structural concern (AI disruption) — avoid re-entry unless clear evidence of business model adaptation
+- Cash redeployed to portfolio dry powder
+
+---
+
+### 2026-02-12 | KPITTECH | EXIT (STOP-LOSS TRIGGERED)
+
+**Position:** 83 shares @ ₹1,131.56 avg | Sold: ₹900.10 | Loss: -₹19,211 (-20.4%)
+
+**Decision:** EXIT — GTT stop-loss triggered as IT selloff intensified.
+
+**Rationale:** KPIT Technologies dropped 4.98% on Feb 12 in the same IT sector selloff. Although KPIT does automotive software (SDV/EV/autonomous driving) — not traditional IT outsourcing — it was dragged down by sector-wide selling. The stock had been weak since Q3 results showed profit crash of 29% (₹133 Cr from ₹187 Cr) due to ₹60 Cr labor provision and margin compression (EBIT 15.6% vs 17.2% YoY). Original journal entry (Feb 5) set stop-loss at ₹900 contingent on Q4 margin recovery. GTT was corrected from 110→83 shares earlier today (quantity mismatch fix), and fired correctly at 11:20 AM. Biggest single-stock realized loss in portfolio. Margin recovery thesis did not get a chance to play out — stock broke support before Q4 results.
+
+**Action Taken:**
+- ✅ GTT stop-loss fired: 83 shares sold at ₹900.10 avg (Trigger ID: **305672287**, Order ID: 2021824203283537921)
+- 💰 Cash recovered: ₹74,708
+- 📊 Realized loss: -₹19,211
+
+**Post-Exit Notes:**
+- No position remaining in KPITTECH
+- KPIT's automotive software business (SDV, EV) has structural tailwinds — but margin compression + IT sector sentiment = wrong time to hold
+- **Re-entry consideration:** If KPIT reports Q4 FY26 EBIT margin >16.5% (April-May 2026) AND stock is below ₹950, reconsider. Intrinsic value was estimated at ₹1,235.
+- Budget 2026 supports EV localization — long-term positive for KPIT's addressable market
+
+---
+
+### 2026-02-12 | TCS | EXIT (MANUAL SELL)
+
+**Position:** 10 shares @ ₹3,084.93 avg | Sold: ₹2,756.00 | Loss: -₹3,289 (-10.7%)
+
+**Decision:** EXIT — Manual sell decision amid IT sector structural concerns.
+
+**Rationale:** TCS dropped 4.13% on Feb 12 as part of the broad IT selloff. ₹1,00,000 crore wiped from top 5 IT stocks in a single day. SBI overtook TCS as India's 4th largest company by market cap — symbolic of the sector's decline. Small position (10 shares, ₹28K) with no documented thesis or stop-loss in journal — was legacy holding without active management. AI disruption threatens traditional IT outsourcing model (TCS derives majority revenue from application development, maintenance, and consulting — all areas where AI coding assistants are gaining traction). Rather than hold through further structural decline, exited at ₹2,756 to redeploy capital into sectors with clearer growth visibility.
+
+**Action Taken:**
+- ✅ Manual sell: 10 shares at ₹2,756 (Order ID: 2021874717757054976)
+- 💰 Cash recovered: ₹27,560
+- 📊 Realized loss: -₹3,289
+
+**Post-Exit Notes:**
+- No position remaining in TCS
+- Avoid traditional IT services (TCS, Infosys, Wipro, HCL) until AI disruption impact becomes clearer
+- Total IT sector exits today: HCLTECH + KPITTECH + TCS = -₹23,542 realized loss, ₹1,38,268 cash recovered
+
+---
+
+### 2026-02-12 | PORTFOLIO NOTE | IT SECTOR COMPLETE EXIT
+
+**Summary:** Exited all three IT holdings in a single day due to structural AI disruption concerns.
+
+| Stock | Shares | Sell Price | Avg Cost | Realized P&L | Method |
+|-------|--------|-----------|----------|-------------|--------|
+| HCLTECH | 24 | ₹1,500.00 | ₹1,543.42 | -₹1,042 | GTT stop-loss |
+| KPITTECH | 83 | ₹900.10 | ₹1,131.56 | -₹19,211 | GTT stop-loss |
+| TCS | 10 | ₹2,756.00 | ₹3,084.93 | -₹3,289 | Manual sell |
+| **Total** | | | | **-₹23,542** | **₹1,38,268 cash** |
+
+**Thesis:** AI tools (Anthropic Claude Cowork, GitHub Copilot, etc.) are accelerating displacement of traditional IT services work. Nifty IT -10% YTD. Indian IT companies face long-term revenue growth headwinds as clients adopt AI for coding, testing, consulting, and data analytics. Portfolio is now zero-weight IT services — cash redeployed to sectors with structural tailwinds.
+
+**Available cash post-exits:** ~₹5.8L (₹4.4L existing + ₹1.38L from exits)
+
+**Re-entry criteria for IT sector:**
+- Evidence of successful AI-integrated business models (revenue from AI services > revenue lost from traditional services)
+- Margin stabilization post-AI transition (EBIT >18% sustained)
+- Valuation reset to P/E <20x for large-caps
+
+---
+
 ### 2026-02-10 | GODREJPROP | HOLD + ACCUMULATE ON DIPS (GTT BUY ORDERS SET)
 
 **Position:** 15 shares @ ₹1,501.67 avg | Current: ₹1,818 | Gain: +₹4,746 (+21.1%)
